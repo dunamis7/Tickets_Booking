@@ -1,0 +1,56 @@
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\appsettings.json
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.exe
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.deps.json
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.runtimeconfig.json
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.runtimeconfig.dev.json
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\API1.pdb
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.csproj.AssemblyReference.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.AssemblyInfoInputs.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.AssemblyInfo.cs
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.csproj.CoreCompileInputs.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\scopedcss\bundle\API1.styles.css
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\staticwebassets\API1.StaticWebAssets.Manifest.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.RazorTargetAssemblyInfo.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.csproj.CopyComplete
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\refint\API1.dll
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.pdb
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\API1.genruntimeconfig.cache
+C:\Users\Fiifi Ansah\source\repos\API1\API1\obj\Debug\net5.0\ref\API1.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\appsettings.json
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.exe
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.deps.json
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.runtimeconfig.json
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.runtimeconfig.dev.json
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\API1.pdb
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.csproj.AssemblyReference.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.AssemblyInfoInputs.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.AssemblyInfo.cs
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.csproj.CoreCompileInputs.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\scopedcss\bundle\API1.styles.css
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\staticwebassets\API1.StaticWebAssets.Manifest.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.RazorTargetAssemblyInfo.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.csproj.CopyComplete
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\refint\API1.dll
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.pdb
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\API1.genruntimeconfig.cache
+C:\Users\Fiifi Ansah\source\repos\WebAPI FirstWork Safety\API1\obj\Debug\net5.0\ref\API1.dll
